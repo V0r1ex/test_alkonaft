@@ -36,3 +36,4 @@ h_line1 = QHBoxLayout()
 h_line2 = QHBoxLayout()
 main_win.show()
 app.exec_()
+fergegregerg
